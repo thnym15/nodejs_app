@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_app",
+  "version": "1.0.0",
+  "description": "nodejs_app\r node test by airmanee",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thnym15/nodejs_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thnym15/nodejs_app/issues"
+  },
+  "homepage": "https://github.com/thnym15/nodejs_app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
