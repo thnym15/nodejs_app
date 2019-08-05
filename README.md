@@ -1,1 +1,2 @@
 nodejs_app
+node test
