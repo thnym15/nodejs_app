@@ -1,4 +1,5 @@
 {
     "user":"air",
-    "id": 1234
+    "id": 1234,
+    "level":"enduser"
 }
