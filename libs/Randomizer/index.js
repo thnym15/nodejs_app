@@ -1,1 +1,3 @@
-exports.range = (min, max) => Math.random() * (max - min) + min
+exports.range = (min, max) => {
+  return Math.floor(Math.random() * (max - min + 1) + min)
+}
