@@ -3,6 +3,8 @@ const app = express()
 
 app.get('/', (req, res) => {
   res.send('helloworld')
+  console.log('AppDividend'.toLocaleLowerCase());
+  console.log('KrunalLathiya'.toLowerCase());
 })
 
 app.get('/test', (req, res) => {
